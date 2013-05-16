@@ -1,5 +1,5 @@
 /**
- * Script Robert
+ * Script Author: Anderson Sa, Daniele Almeida, Erick Bessa, Emilio Aiolfi, Fernando Rossetto, Mateus Reis e Vitor Leonel
  */
 
 function retornaTelefone(letras){
